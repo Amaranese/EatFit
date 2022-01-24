@@ -1,12 +1,3 @@
-//
-//  UIColor+Extention.swift
-//  EatFit
-//
-//  Created by Konstantin Safronov on 12/21/15.
-//  Copyright © 2015 Konstantin Safronov. All rights reserved.
-//
-
-
 import UIKit
 
 extension UIColor {
